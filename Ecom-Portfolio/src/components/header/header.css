@@ -1,0 +1,13 @@
+.logo-img {
+  width: 200px;
+  height: auto;
+}
+.cart-hide {
+  display: none;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
