@@ -1,10 +1,10 @@
 export const slide = [
   {
-    image: '../images/slide/slide1.png',
+    image: '../images/slide/slide1.jpg',
   },
-  { image: '../images/slide/slide2.png' },
-  { image: '../images/slide/slide3.png' },
-  { image: '../images/slide/slide4.png' },
+  { image: '../images/slide/slide2.jpg' },
+  { image: '../images/slide/slide3.jpg' },
+  { image: '../images/slide/slide4.jpg' },
 ];
 export const order = [
   {
@@ -28,31 +28,31 @@ export const order = [
     desc: 'There are many variations of passages of Lorem Ipsum available',
   },
 ];
-export const category = [
+export const Categories = [
   {
     id: 1,
     title: 'face & skin care',
-    cover: '../images/category/ca1.png',
+    cover: '../images/category/ca1.jpg',
   },
   {
     id: 2,
     title: 'baby care',
-    cover: '../images/category/ca2.png',
+    cover: '../images/category/ca1.jpg',
   },
   {
     id: 3,
     title: 'beauty care',
-    cover: '../images/category/ca3.png',
+    cover: '../images/category/ca1.jpg',
   },
   {
     id: 4,
     title: 'contraceptive',
-    cover: '../images/category/ca4.png',
+    cover: '../images/category/ca1.jpg',
   },
   {
     id: 5,
     title: 'feminine hygiene',
-    cover: '../images/category/ca5.png',
+    cover: '../images/category/ca1.jpg',
   },
   {
     id: 6,

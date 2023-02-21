@@ -11,3 +11,8 @@
   align-items: center;
   justify-content: center;
 }
+.profile-img {
+  border-radius: 50%;
+  width: 100px;
+  height: auto;
+}
